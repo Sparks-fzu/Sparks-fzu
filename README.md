@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi
 
-<!--
-**Sparks-fzu/Sparks-fzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is 王长龙，现就读于福州大学计算机系，
 
-Here are some ideas to get you started:
+是一条在专业领域上还未翻身的小咸鱼。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+希望有朝一日能够推开计算机神秘的大门。
+
+对计算机图形学，计算机视觉等相关领域感兴趣。
+
+个人邮箱 937095987@qq.com
+
+
